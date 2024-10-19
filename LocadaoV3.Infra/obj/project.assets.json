@@ -2283,11 +2283,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\LocadaoV3.Infra\\LocadaoV3.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Infra\\LocadaoV3.Infra.csproj",
       "projectName": "LocadaoV3.Infra",
-      "projectPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\LocadaoV3.Infra\\LocadaoV3.Infra.csproj",
+      "projectPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Infra\\LocadaoV3.Infra.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\LocadaoV3.Infra\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2304,8 +2304,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\locadaoV3.Domain\\LocadaoV3.Domain.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\locadaoV3.Domain\\LocadaoV3.Domain.csproj"
+            "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Domain\\LocadaoV3.Domain.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Domain\\LocadaoV3.Domain.csproj"
             }
           }
         }

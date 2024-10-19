@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OECPxnefuv/ZDWU28RjKi9gAgu0F/61IDHqRkKZnNYJgzp8eaustRmrdScGfR4mTBe7tHjxTEhyLssClEDWiog==",
+  "dgSpecHash": "F8FtiacL/u863Vyu3fKJo5V+8e8NoMSndBcNhDI23y9bQxF4iZTYKZgxriSXqHsyXZShxJZbr8muDP3qcSibtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\LocadaoV3.Application\\LocadaoV3.Application.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\LocadaoV3.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",

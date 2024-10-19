@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadao\\locadaov3\\locadaov3.application\\queries\\aluguelqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.application\\queries\\aluguelqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|solutionrelative:locadaov3.application\\queries\\aluguelqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadao\\locadaov3\\locadaov3.application\\commands\\createveiculocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.application\\commands\\createveiculocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|solutionrelative:locadaov3.application\\commands\\createveiculocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AluguelQueryService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\LocadaoV3.Application\\Queries\\AluguelQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\Queries\\AluguelQueryService.cs",
               "RelativeDocumentMoniker": "LocadaoV3.Application\\Queries\\AluguelQueryService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\LocadaoV3.Application\\Queries\\AluguelQueryService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\Queries\\AluguelQueryService.cs",
               "RelativeToolTip": "LocadaoV3.Application\\Queries\\AluguelQueryService.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CreateVeiculoCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\LocadaoV3.Application\\Commands\\CreateVeiculoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\Commands\\CreateVeiculoCommand.cs",
               "RelativeDocumentMoniker": "LocadaoV3.Application\\Commands\\CreateVeiculoCommand.cs",
-              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\LocadaoV3.Application\\Commands\\CreateVeiculoCommand.cs",
+              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\Commands\\CreateVeiculoCommand.cs",
               "RelativeToolTip": "LocadaoV3.Application\\Commands\\CreateVeiculoCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

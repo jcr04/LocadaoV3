@@ -2976,11 +2976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\LocadaoV3.API\\LocadaoV3.API.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.API\\LocadaoV3.API.csproj",
       "projectName": "LocadaoV3.API",
-      "projectPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\LocadaoV3.API\\LocadaoV3.API.csproj",
+      "projectPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.API\\LocadaoV3.API.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\LocadaoV3.API\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2997,8 +2997,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\LocadaoV3.Application\\LocadaoV3.Application.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\LocadaoV3.Application\\LocadaoV3.Application.csproj"
+            "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\LocadaoV3.Application.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\LocadaoV3.Application.csproj"
             }
           }
         }

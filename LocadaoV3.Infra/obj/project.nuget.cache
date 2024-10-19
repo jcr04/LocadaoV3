@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/nW9nYXBfu4MJPRzNPlGQZrdh0YBn54nleTcTDQ+Xq44m6oqOtO4ubN1dn9JK8BuNVs3xT9QJlBNL/TQuiYETQ==",
+  "dgSpecHash": "0FlXImBpjkAw4oNxJI1a9YfBCRMA1eCyNoV05uiRDn4wFN4FXG7QStfo2ueUwZYH6qjVlSG+pkey7YAFsjCViA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\Locadao\\locadaoV3\\LocadaoV3.Infra\\LocadaoV3.Infra.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Infra\\LocadaoV3.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
