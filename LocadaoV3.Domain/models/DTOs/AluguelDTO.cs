@@ -1,4 +1,4 @@
-﻿using LocadaoV3.Domain.models.DTOs;
+﻿using LocadaoV3.Domain.Models.DTOs;
 
 public class AluguelDTO
 {

@@ -1,6 +1,4 @@
-﻿using LocadaoV3.Domain.Models;
-
-namespace LocadaoV3.Domain.models;
+﻿namespace LocadaoV3.Domain.Models;
 
 public class Reserva
 {

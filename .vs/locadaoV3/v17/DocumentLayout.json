@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.application\\queries\\aluguelqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|solutionrelative:locadaov3.application\\queries\\aluguelqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F1D872C-A3DC-4CCA-A687-73C610BF1E0D}|LocadaoV3.Domain\\LocadaoV3.Domain.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.domain\\models\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1D872C-A3DC-4CCA-A687-73C610BF1E0D}|LocadaoV3.Domain\\LocadaoV3.Domain.csproj|solutionrelative:locadaov3.domain\\models\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.application\\commands\\createveiculocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|solutionrelative:locadaov3.application\\commands\\createveiculocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.application\\queries\\reservaqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|solutionrelative:locadaov3.application\\queries\\reservaqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.application\\handlers\\updatereservacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|solutionrelative:locadaov3.application\\handlers\\updatereservacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.application\\handlers\\createreservacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|solutionrelative:locadaov3.application\\handlers\\createreservacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7C77C6-FB27-40CE-9C3E-E2C95B38FBCD}|LocadaoV3.Infra\\LocadaoV3.Infra.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.infra\\repository\\reservas\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7C77C6-FB27-40CE-9C3E-E2C95B38FBCD}|LocadaoV3.Infra\\LocadaoV3.Infra.csproj|solutionrelative:locadaov3.infra\\repository\\reservas\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7C77C6-FB27-40CE-9C3E-E2C95B38FBCD}|LocadaoV3.Infra\\LocadaoV3.Infra.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.infra\\repository\\reservas\\ireservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7C77C6-FB27-40CE-9C3E-E2C95B38FBCD}|LocadaoV3.Infra\\LocadaoV3.Infra.csproj|solutionrelative:locadaov3.infra\\repository\\reservas\\ireservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0359483B-37B9-4CFF-8A8A-75894F911AB1}|LocadaoV3.API\\LocadaoV3.API.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.api\\locadaov3.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0359483B-37B9-4CFF-8A8A-75894F911AB1}|LocadaoV3.API\\LocadaoV3.API.csproj|solutionrelative:locadaov3.api\\locadaov3.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.application\\locadaov3.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1A4FE96-F738-4F69-A03E-561D772F573C}|LocadaoV3.Application\\LocadaoV3.Application.csproj|solutionrelative:locadaov3.application\\locadaov3.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7C77C6-FB27-40CE-9C3E-E2C95B38FBCD}|LocadaoV3.Infra\\LocadaoV3.Infra.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.infra\\locadaov3.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A7C77C6-FB27-40CE-9C3E-E2C95B38FBCD}|LocadaoV3.Infra\\LocadaoV3.Infra.csproj|solutionrelative:locadaov3.infra\\locadaov3.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7C77C6-FB27-40CE-9C3E-E2C95B38FBCD}|LocadaoV3.Infra\\LocadaoV3.Infra.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.infra\\locadaodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7C77C6-FB27-40CE-9C3E-E2C95B38FBCD}|LocadaoV3.Infra\\LocadaoV3.Infra.csproj|solutionrelative:locadaov3.infra\\locadaodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1D872C-A3DC-4CCA-A687-73C610BF1E0D}|LocadaoV3.Domain\\LocadaoV3.Domain.csproj|c:\\users\\usuario\\joao\\back\\locadao\\locadaov3\\locadaov3.domain\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1D872C-A3DC-4CCA-A687-73C610BF1E0D}|LocadaoV3.Domain\\LocadaoV3.Domain.csproj|solutionrelative:locadaov3.domain\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +59,145 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AluguelQueryService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\Queries\\AluguelQueryService.cs",
-              "RelativeDocumentMoniker": "LocadaoV3.Application\\Queries\\AluguelQueryService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\Queries\\AluguelQueryService.cs",
-              "RelativeToolTip": "LocadaoV3.Application\\Queries\\AluguelQueryService.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Title": "Agencia.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Domain\\Models\\Agencia.cs",
+              "RelativeDocumentMoniker": "LocadaoV3.Domain\\Models\\Agencia.cs",
+              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Domain\\Models\\Agencia.cs",
+              "RelativeToolTip": "LocadaoV3.Domain\\Models\\Agencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T20:32:20.559Z",
+              "WhenOpened": "2024-10-19T21:03:33.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateVeiculoCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\Commands\\CreateVeiculoCommand.cs",
-              "RelativeDocumentMoniker": "LocadaoV3.Application\\Commands\\CreateVeiculoCommand.cs",
-              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\Commands\\CreateVeiculoCommand.cs",
-              "RelativeToolTip": "LocadaoV3.Application\\Commands\\CreateVeiculoCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Title": "ReservaQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\Queries\\ReservaQueryService.cs",
+              "RelativeDocumentMoniker": "LocadaoV3.Application\\Queries\\ReservaQueryService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\Queries\\ReservaQueryService.cs",
+              "RelativeToolTip": "LocadaoV3.Application\\Queries\\ReservaQueryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T20:32:11.24Z"
+              "WhenOpened": "2024-10-19T21:02:53.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateReservaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\Handlers\\UpdateReservaCommandHandler.cs",
+              "RelativeDocumentMoniker": "LocadaoV3.Application\\Handlers\\UpdateReservaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\Handlers\\UpdateReservaCommandHandler.cs",
+              "RelativeToolTip": "LocadaoV3.Application\\Handlers\\UpdateReservaCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:02:44.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateReservaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\Handlers\\CreateReservaCommandHandler.cs",
+              "RelativeDocumentMoniker": "LocadaoV3.Application\\Handlers\\CreateReservaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\Handlers\\CreateReservaCommandHandler.cs",
+              "RelativeToolTip": "LocadaoV3.Application\\Handlers\\CreateReservaCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:02:33.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Infra\\Repository\\Reservas\\ReservaRepository.cs",
+              "RelativeDocumentMoniker": "LocadaoV3.Infra\\Repository\\Reservas\\ReservaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Infra\\Repository\\Reservas\\ReservaRepository.cs",
+              "RelativeToolTip": "LocadaoV3.Infra\\Repository\\Reservas\\ReservaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:02:23.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReservaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Infra\\Repository\\Reservas\\IReservaRepository.cs",
+              "RelativeDocumentMoniker": "LocadaoV3.Infra\\Repository\\Reservas\\IReservaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Infra\\Repository\\Reservas\\IReservaRepository.cs",
+              "RelativeToolTip": "LocadaoV3.Infra\\Repository\\Reservas\\IReservaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:02:07.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LocadaoV3.Infra",
+              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Infra\\LocadaoV3.Infra.csproj",
+              "RelativeDocumentMoniker": "LocadaoV3.Infra\\LocadaoV3.Infra.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Infra\\LocadaoV3.Infra.csproj",
+              "RelativeToolTip": "LocadaoV3.Infra\\LocadaoV3.Infra.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T21:00:01.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Domain\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "LocadaoV3.Domain\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Domain\\Models\\Reserva.cs",
+              "RelativeToolTip": "LocadaoV3.Domain\\Models\\Reserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T20:57:19.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocadaoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Infra\\LocadaoDbContext.cs",
+              "RelativeDocumentMoniker": "LocadaoV3.Infra\\LocadaoDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Infra\\LocadaoDbContext.cs",
+              "RelativeToolTip": "LocadaoV3.Infra\\LocadaoDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T20:54:47.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocadaoV3.Application",
+              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\LocadaoV3.Application.csproj",
+              "RelativeDocumentMoniker": "LocadaoV3.Application\\LocadaoV3.Application.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.Application\\LocadaoV3.Application.csproj",
+              "RelativeToolTip": "LocadaoV3.Application\\LocadaoV3.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T20:53:38.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocadaoV3.API",
+              "DocumentMoniker": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.API\\LocadaoV3.API.csproj",
+              "RelativeDocumentMoniker": "LocadaoV3.API\\LocadaoV3.API.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\joao\\Back\\Locadao\\locadaoV3\\LocadaoV3.API\\LocadaoV3.API.csproj",
+              "RelativeToolTip": "LocadaoV3.API\\LocadaoV3.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T20:53:32.218Z",
+              "EditorCaption": ""
             }
           ]
         }

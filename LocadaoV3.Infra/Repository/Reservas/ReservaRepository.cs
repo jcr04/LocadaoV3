@@ -1,4 +1,4 @@
-﻿using LocadaoV3.Domain.models;
+﻿using LocadaoV3.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

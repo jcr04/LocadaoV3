@@ -15,3 +15,4 @@ C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Application\obj\Debug\net
 C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Application\obj\Debug\net8.0\refint\LocadaoV3.Application.dll
 C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Application\obj\Debug\net8.0\LocadaoV3.Application.pdb
 C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Application\obj\Debug\net8.0\ref\LocadaoV3.Application.dll
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Application\obj\Debug\net8.0\LocadaoV3.Application.sourcelink.json

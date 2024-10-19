@@ -15,3 +15,4 @@ C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\re
 C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\LocadaoV3.Infra.pdb
 C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\LocadaoV3.Infra.genruntimeconfig.cache
 C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\ref\LocadaoV3.Infra.dll
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\LocadaoV3.Infra.sourcelink.json

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LocadaoV3.Domain.models.DTOs
+namespace LocadaoV3.Domain.Models.DTOs
 {
         public class ReservaDTO
         {

@@ -9,10 +9,6 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\LocadaoV3.Application\LocadaoV3.Application.csproj" />
-	</ItemGroup>
-
-	<ItemGroup>
 		<PackageReference Include="FluentAssertions" Version="6.12.0" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.3" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.3">
@@ -21,6 +17,10 @@
 		</PackageReference>
 		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.6" />
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\LocadaoV3.Application\LocadaoV3.Application.csproj" />
 	</ItemGroup>
 
 </Project>

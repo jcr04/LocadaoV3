@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
 		<TargetFramework>net8.0</TargetFramework>
@@ -7,8 +7,9 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\locadaoV3.Domain\LocadaoV3.Domain.csproj" />
-		<ProjectReference Include="..\LocadaoV3.Infra\LocadaoV3.Infra.csproj" />
+	  <ProjectReference Include="..\LocadaoV3.Domain\LocadaoV3.Domain.csproj" />
+	  <ProjectReference Include="..\LocadaoV3.Infra\LocadaoV3.Infra.csproj" />
 	</ItemGroup>
+
 
 </Project>

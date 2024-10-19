@@ -1,5 +1,5 @@
 ﻿using LocadaoV3.Application.Commands;
-using LocadaoV3.Domain.models;
+using LocadaoV3.Domain.Models;
 using LocadaoV3.Infra.Repository.Reservas;
 using LocadaoV3.Infra.Repository.Veiculos;
 using System;

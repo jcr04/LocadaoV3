@@ -111,3 +111,5 @@ C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\obj\Debug\net8.0\refi
 C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\obj\Debug\net8.0\LocadaoV3.API.pdb
 C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\obj\Debug\net8.0\LocadaoV3.API.genruntimeconfig.cache
 C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\obj\Debug\net8.0\ref\LocadaoV3.API.dll
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\obj\Debug\net8.0\LocadaoV3.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\obj\Debug\net8.0\LocadaoV3.API.sourcelink.json

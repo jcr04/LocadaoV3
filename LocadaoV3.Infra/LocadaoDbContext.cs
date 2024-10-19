@@ -1,12 +1,5 @@
-﻿
-using LocadaoV3.Domain.models;
-using LocadaoV3.Domain.Models;
+﻿using LocadaoV3.Domain.Models;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LocadaoV3.Infra
 {

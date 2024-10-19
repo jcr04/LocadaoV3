@@ -1,4 +1,4 @@
-﻿using LocadaoV3.Domain.models;
+﻿using LocadaoV3.Domain.Models;
 
 namespace LocadaoV3.Infra.Repository.Reservas
 {

@@ -1,4 +1,4 @@
-﻿using LocadaoV3.Domain.models.DTOs;
+﻿using LocadaoV3.Domain.Models.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
