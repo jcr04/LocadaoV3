@@ -1,0 +1,17 @@
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\bin\Debug\net8.0\LocadaoV3.Infra.deps.json
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\bin\Debug\net8.0\LocadaoV3.Infra.runtimeconfig.json
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\bin\Debug\net8.0\LocadaoV3.Infra.dll
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\bin\Debug\net8.0\LocadaoV3.Infra.pdb
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\bin\Debug\net8.0\LocadaoV3.Domain.dll
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\bin\Debug\net8.0\LocadaoV3.Domain.pdb
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\LocadaoV3.Infra.csproj.AssemblyReference.cache
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\LocadaoV3.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\LocadaoV3.Infra.AssemblyInfoInputs.cache
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\LocadaoV3.Infra.AssemblyInfo.cs
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\LocadaoV3.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\LocadaoV.31CF641C.Up2Date
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\LocadaoV3.Infra.dll
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\refint\LocadaoV3.Infra.dll
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\LocadaoV3.Infra.pdb
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\LocadaoV3.Infra.genruntimeconfig.cache
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.Infra\obj\Debug\net8.0\ref\LocadaoV3.Infra.dll

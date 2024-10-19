@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UtMFeSrEw8mISctl2U8lgQ5DTrFlN5jQ7DoxGaGXUMk=",
+  "Source": "LocadaoV3.API",
+  "BasePath": "_content/LocadaoV3.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
