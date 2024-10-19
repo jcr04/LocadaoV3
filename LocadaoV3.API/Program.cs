@@ -8,6 +8,7 @@ using LocadaoV3.Infra.Repository.Reservas;
 using LocadaoV3.Infra.Repository.Veiculos;
 using LocadaoV3.Infra;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
 
 internal class Program
 {
@@ -56,28 +57,36 @@ internal class Program
         builder.Services.AddSwaggerGen();
 
 
-        builder.Services.AddHttpsRedirection(options =>
-        {
-            options.RedirectStatusCode = StatusCodes.Status307TemporaryRedirect;
-            options.HttpsPort = 44351;
-        });
-
         builder.Services.AddCors(options =>
         {
-            options.AddPolicy("AllowAllOrigins",
-                builder =>
-                {
-                    builder.AllowAnyOrigin()
-                           .AllowAnyMethod()
-                           .AllowAnyHeader();
-                });
+            options.AddPolicy("AllowAllOrigins", builder =>
+            {
+                builder.AllowAnyOrigin()
+                       .AllowAnyMethod()
+                       .AllowAnyHeader();
+            });
         });
 
-        var app = builder.Build();
+        // Configuração do Swagger
+        builder.Services.AddEndpointsApiExplorer();
+        builder.Services.AddSwaggerGen(c =>
+        {
+            c.SwaggerDoc("v1", new OpenApiInfo { Title = "LocadaoV3 API", Version = "v1" });
+            c.AddServer(new OpenApiServer
+            {
+                Url = "https://locadaov3.onrender.com",
+                Description = "Produção"
+            });
+        });
 
-        app.UseSwagger();
-        app.UseSwaggerUI();
-        app.UseCors("AllowAllOrigins");
+        // Remova ou ajuste a configuração de HTTPS redirection
+        // builder.Services.AddHttpsRedirection(options =>
+        // {
+        //     options.RedirectStatusCode = StatusCodes.Status307TemporaryRedirect;
+        //     options.HttpsPort = 44351;
+        // });
+
+        var app = builder.Build();
 
         if (!app.Environment.IsDevelopment())
         {
@@ -86,9 +95,17 @@ internal class Program
         }
 
         app.UseHttpsRedirection();
+
         app.UseStaticFiles();
+
         app.UseRouting();
+
+        app.UseCors("AllowAllOrigins");
+
         app.UseAuthorization();
+        app.UseSwagger();
+        app.UseSwaggerUI();
+
         app.MapControllers();
 
         app.Run();
