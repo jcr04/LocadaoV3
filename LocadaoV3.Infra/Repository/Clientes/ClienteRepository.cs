@@ -52,7 +52,7 @@ namespace LocadaoV3.Infra.Repository.Clientes
         public async Task<IEnumerable<Cliente>> GetClientesDisponiveisAsync()
         {
             return await _context.Clientes
-                                 .Where(c => c.TemCNH == true && (c.ValidadeCNH == null || c.ValidadeCNH >= DateTime.Today))
+                                 .Where(c => c.TemCNH == true && (c.ValidadeCNH == null || c.ValidadeCNH >= DateTime.UtcNow))
                                  .ToListAsync();
         }
     }
