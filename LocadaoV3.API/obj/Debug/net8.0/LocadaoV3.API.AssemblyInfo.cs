@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocadaoV3.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ec276a47c139a051c15ba9f9a6caa198a74d8f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e57324065b547719339c4e73aa5406a0d08edd27")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocadaoV3.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocadaoV3.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
