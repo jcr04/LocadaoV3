@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace LocadaoV3.API.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("api/[controller]")]
 public class ClientesController : ControllerBase
 {
     private readonly ICommandHandler<CreateClienteCommand> _createClienteHandler;
