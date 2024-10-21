@@ -24,9 +24,14 @@ public class UpdateClienteCommandHandler : ICommandHandler<UpdateClienteCommand>
         if (cliente != null)
         {
             cliente.Nome = command.Nome;
-            cliente.DataNascimento = command.DataNascimento;
+            cliente.DataNascimento = command.DataNascimento.ToUniversalTime();
             cliente.Email = command.Email;
             cliente.Telefone = command.Telefone;
+
+            if (command.ValidadeCNH.HasValue)
+            {
+                cliente.ValidadeCNH = command.ValidadeCNH.Value.ToUniversalTime();
+            }
 
             await _clienteRepository.UpdateAsync(cliente);
         }
@@ -37,4 +42,5 @@ public class UpdateClienteCommandHandler : ICommandHandler<UpdateClienteCommand>
 
         return command.Id;
     }
+
 }

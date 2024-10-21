@@ -17,7 +17,15 @@ namespace LocadaoV3.Application.Handlers
 
         public async Task<Guid> HandleAsync(CreateClienteCommand command)
         {
-            var idade = CalcularIdade(command.DataNascimento);
+            var dataNascimentoUtc = command.DataNascimento.ToUniversalTime();
+            command.DataNascimento = dataNascimentoUtc;
+
+            if (command.ValidadeCNH.HasValue)
+            {
+                command.ValidadeCNH = command.ValidadeCNH.Value.ToUniversalTime();
+            }
+
+            var idade = CalcularIdade(dataNascimentoUtc);
             if (idade < 18)
             {
                 throw new Exception("O cliente deve ter pelo menos 18 anos.");
@@ -30,7 +38,7 @@ namespace LocadaoV3.Application.Handlers
                     throw new Exception("A validade da CNH deve ser informada.");
                 }
 
-                if (command.ValidadeCNH.Value.Date < DateTime.Now.Date)
+                if (command.ValidadeCNH.Value.Date < DateTime.UtcNow.Date)
                 {
                     throw new Exception("A CNH está vencida.");
                 }
@@ -44,7 +52,7 @@ namespace LocadaoV3.Application.Handlers
                 Cpf = command.Cpf,
                 TemCNH = command.TemCNH,
                 IsPCD = command.IsPCD,
-                DataNascimento = command.DataNascimento,
+                DataNascimento = dataNascimentoUtc,
                 ValidadeCNH = command.ValidadeCNH
             };
 
