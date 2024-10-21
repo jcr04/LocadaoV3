@@ -24,7 +24,7 @@ public class UpdateClienteCommandHandler : ICommandHandler<UpdateClienteCommand>
         if (cliente != null)
         {
             cliente.Nome = command.Nome;
-            cliente.Idade = command.Idade;
+            cliente.DataNascimento = command.DataNascimento;
             cliente.Email = command.Email;
             cliente.Telefone = command.Telefone;
 

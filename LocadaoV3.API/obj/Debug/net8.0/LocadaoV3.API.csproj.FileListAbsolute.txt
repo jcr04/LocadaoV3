@@ -113,3 +113,8 @@ C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\obj\Debug\net8.0\Loca
 C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\obj\Debug\net8.0\ref\LocadaoV3.API.dll
 C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\obj\Debug\net8.0\LocadaoV3.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\obj\Debug\net8.0\LocadaoV3.API.sourcelink.json
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\joao\Back\Locadao\locadaoV3\LocadaoV3.API\bin\Debug\net8.0\System.Text.Json.dll

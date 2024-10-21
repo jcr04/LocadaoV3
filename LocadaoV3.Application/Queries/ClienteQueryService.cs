@@ -3,48 +3,56 @@ using LocadaoV3.Infra.Repository.Clientes;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace LocadaoV3.Application.Queries;
-
-public class ClienteQueryService : IClienteQueryService
+namespace LocadaoV3.Application.Queries
 {
-    private readonly IClienteRepository _clienteRepository;
-
-    public ClienteQueryService(IClienteRepository clienteRepository)
+    public class ClienteQueryService : IClienteQueryService
     {
-        _clienteRepository = clienteRepository;
-    }
+        private readonly IClienteRepository _clienteRepository;
 
-    public async Task<ClienteDTO> GetClienteByIdAsync(Guid id)
-    {
-        var cliente = await _clienteRepository.GetByIdAsync(id);
-        if (cliente == null)
+        public ClienteQueryService(IClienteRepository clienteRepository)
         {
-            return null;
+            _clienteRepository = clienteRepository;
         }
 
-        return new ClienteDTO
+        public async Task<ClienteDTO> GetClienteByIdAsync(Guid id)
         {
-            Id = cliente.Id,
-            Nome = cliente.Nome,
-            Idade = cliente.Idade,
-            Email = cliente.Email,
-            Telefone = cliente.Telefone
-        };
-    }
-    public async Task<IEnumerable<ClienteDTO>> GetClientesDisponiveisAsync()
-    {
-        var clientes = await _clienteRepository.GetClientesDisponiveisAsync();
-        return clientes.Select(cliente => new ClienteDTO
+            var cliente = await _clienteRepository.GetByIdAsync(id);
+            if (cliente == null)
+            {
+                return null;
+            }
+
+            return new ClienteDTO
+            {
+                Id = cliente.Id,
+                Nome = cliente.Nome,
+                Email = cliente.Email,
+                Telefone = cliente.Telefone,
+                Cpf = cliente.Cpf,
+                TemCNH = cliente.TemCNH,
+                IsPCD = cliente.IsPCD,
+                DataNascimento = cliente.DataNascimento,
+                ValidadeCNH = cliente.ValidadeCNH
+            };
+        }
+
+        public async Task<IEnumerable<ClienteDTO>> GetClientesDisponiveisAsync()
         {
-            Id = cliente.Id,
-            Nome = cliente.Nome,
-            Idade = cliente.Idade,
-            Email = cliente.Email,
-            Telefone = cliente.Telefone
-        }).ToList();
+            var clientes = await _clienteRepository.GetClientesDisponiveisAsync();
+            return clientes.Select(cliente => new ClienteDTO
+            {
+                Id = cliente.Id,
+                Nome = cliente.Nome,
+                Email = cliente.Email,
+                Telefone = cliente.Telefone,
+                Cpf = cliente.Cpf,
+                TemCNH = cliente.TemCNH,
+                IsPCD = cliente.IsPCD,
+                DataNascimento = cliente.DataNascimento,
+                ValidadeCNH = cliente.ValidadeCNH
+            }).ToList();
+        }
     }
 }
-

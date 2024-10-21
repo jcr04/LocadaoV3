@@ -1,12 +1,20 @@
 ﻿using LocadaoV3.Domain.Models;
 using Microsoft.EntityFrameworkCore;
-
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace LocadaoV3.Infra.Repository.Clientes
 {
-    public class ClienteRepository(LocadaoDbContext context) : IClienteRepository
+    public class ClienteRepository : IClienteRepository
     {
-        private readonly LocadaoDbContext _context = context;
+        private readonly LocadaoDbContext _context;
+
+        public ClienteRepository(LocadaoDbContext context)
+        {
+            _context = context;
+        }
 
         public async Task<IEnumerable<Cliente>> GetAllAsync()
         {
@@ -44,7 +52,7 @@ namespace LocadaoV3.Infra.Repository.Clientes
         public async Task<IEnumerable<Cliente>> GetClientesDisponiveisAsync()
         {
             return await _context.Clientes
-                                 .Where(c => c.TemCNH == true)
+                                 .Where(c => c.TemCNH == true && (c.ValidadeCNH == null || c.ValidadeCNH >= DateTime.Today))
                                  .ToListAsync();
         }
     }

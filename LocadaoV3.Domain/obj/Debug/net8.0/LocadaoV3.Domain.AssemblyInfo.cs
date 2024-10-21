@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocadaoV3.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a91f69b5cf622ef2d78ac77bb742a4ae9b8c4e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ec276a47c139a051c15ba9f9a6caa198a74d8f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocadaoV3.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocadaoV3.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

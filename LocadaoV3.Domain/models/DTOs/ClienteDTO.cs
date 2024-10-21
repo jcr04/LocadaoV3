@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LocadaoV3.Domain.Models.DTOs
 {
@@ -10,8 +6,12 @@ namespace LocadaoV3.Domain.Models.DTOs
     {
         public Guid Id { get; set; }
         public string Nome { get; set; }
-        public int Idade { get; set; }
         public string Email { get; set; }
         public string Telefone { get; set; }
+        public string Cpf { get; set; }
+        public bool TemCNH { get; set; }
+        public bool IsPCD { get; set; }
+        public DateTime DataNascimento { get; set; }
+        public DateTime? ValidadeCNH { get; set; }
     }
 }
