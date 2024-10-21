@@ -49,6 +49,7 @@ namespace LocadaoV3.Application.Handlers
                 Nome = command.Nome,
                 Email = command.Email,
                 Telefone = command.Telefone,
+                Idade = command.idade,
                 Cpf = command.Cpf,
                 TemCNH = command.TemCNH,
                 IsPCD = command.IsPCD,

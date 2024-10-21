@@ -25,6 +25,7 @@ public class UpdateClienteCommandHandler : ICommandHandler<UpdateClienteCommand>
         {
             cliente.Nome = command.Nome;
             cliente.DataNascimento = command.DataNascimento.ToUniversalTime();
+            cliente.Idade = command.idade;
             cliente.Email = command.Email;
             cliente.Telefone = command.Telefone;
 
